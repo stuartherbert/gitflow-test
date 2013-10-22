@@ -1,1 +1,1 @@
-A dummy file for testing branch merging
+A dummy file for testing branch merging and tagging
